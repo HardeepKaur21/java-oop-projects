@@ -1,10 +1,14 @@
-# OOP-with-Java
-2 of my best written code involving object oriented programming
+# Java OOP Projects
 
-There are mainly 3 projects in this repository.
+A collection of Java projects developed to strengthen object-oriented programming and software design skills.
 
-<ins>Wordle:</ins> the viral game from last year was simulated using java and data sctructures alone.
+## Projects
 
-<ins>Wordle Helper:</ins> this code is supposed to help a player playing wordle by suggesting potential words that can be the answer
+### Wordle Game
+Implementation of the popular Wordle game featuring input validation, word matching logic, and game state management.
 
-<ins>Vending machine:</ins> this code in particular helped me undetstand how object oriented programming works. This is a code I wrote ouside of university curriculum to help me understand how real life objects and be broken down to methods and classes.
+### Wordle Helper
+A tool that filters possible solutions using known clues and letter constraints.
+
+### Vending Machine
+Simulation of a vending machine demonstrating state management, encapsulation, and object interaction.
