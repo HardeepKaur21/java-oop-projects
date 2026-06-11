@@ -97,7 +97,7 @@ public class Wordle {
 			sc.close();
 		} catch (FileNotFoundException e) {
 			System.err.println(e.getMessage());
-			System.exit(0x2f); // non zero termination
+			System.exit(0x2f);
 		}
 		return lines;
 	}
